@@ -2,26 +2,30 @@
 
 I'm Steve, a developer who loves building cool stuff with AI. After years of mixing code with technical leadership, I'm going all-in on AI tools that actually make developers' lives easier.
 
-## 🚀 Current Project: Sugar 🍰
+## 🚀 Projects
 
-Just shipped [**Sugar**](https://github.com/cdnsteve/sugar) - an open-source tool for developers who want to use AI without the headache.
+### Sugar 🍰
+[**Sugar**](https://github.com/roboticforce/sugar) - A dev team that never stops. Delegate full tasks to AI in the background.
 
-### What's Sugar 🍰?
-It's the AI tool I wished existed, so I built it. Sugar makes AI integration stupidly simple for developers.
+📦 **Grab it:** `pip install sugarai`
+🔗 **Check it out:** [github.com/roboticforce/sugar](https://github.com/roboticforce/sugar)
 
-📦 **Grab it:** `pip install sugarai`  
-🔗 **Check it out:** [github.com/cdnsteve/sugar](https://github.com/cdnsteve/sugar)
+### YearFlow 📅
+[**YearFlow**](https://github.com/roboticforce/yearflow) - A beautiful year-at-a-glance planner component for React.
 
-⭐ Stars help others find Sugar (and make my day)
+📦 **Grab it:** `npm install yearflow`
+🔗 **Check it out:** [github.com/roboticforce/yearflow](https://github.com/roboticforce/yearflow)
+🌐 **Demo:** [yearflow.roboticforce.io](https://yearflow.roboticforce.io)
+
+⭐ Stars help others find these projects (and make my day)
 
 ## 🎮 What I'm Up To
 
-- 🤖 Currently: Teaching robots to play nice with developers
+- 🤖 Currently: Building AI tools and autonomous agents at [RoboticForce](https://roboticforce.io)
 - 🧠 Learning: All the AI things (it's a rabbit hole and I love it)
 - 🎯 Mission: Making AI less scary, more awesome
 - 🤝 Let's collab: Got a wild AI idea? Let's build it!
-- 💬 Ask me about: AI, Sugar, or why developers deserve better tools
-- 📫 Hit me up: [Drop an issue](https://github.com/cdnsteve/sugar/issues) or start a discussion
+- 💬 Ask me about: AI, autonomous agents, or why developers deserve better tools
 
 ---
 
