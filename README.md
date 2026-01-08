@@ -5,7 +5,7 @@ I'm Steve, a developer who loves building cool stuff with AI. After years of mix
 ## 🚀 Projects
 
 ### Sugar 🍰
-[**Sugar**](https://github.com/roboticforce/sugar) - Vibe coding while you sleep. Delegate full tasks to AI in the background.
+[**Sugar**](https://github.com/roboticforce/sugar) - The dev team that never stops. Delegate full tasks to AI in the background.
 
 📦 **Grab it:** `pip install sugarai`
 🔗 **Check it out:** [github.com/roboticforce/sugar](https://github.com/roboticforce/sugar)
