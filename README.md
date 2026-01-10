@@ -4,7 +4,7 @@ I'm Steve, a developer who loves building cool stuff with AI. After years of mix
 
 ## 🚀 Projects
 
-### Sugar 🍰
+### 🍰 Sugar 
 [**Sugar**](https://github.com/roboticforce/sugar) - The autonomous layer for AI coding agents.
 
 📦 **Grab it:** `pip install sugarai`
