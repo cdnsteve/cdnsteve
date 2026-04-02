@@ -4,18 +4,18 @@ I'm Steve, a developer who loves building cool stuff with AI. After years of mix
 
 ## 🚀 Projects
 
-### 🍰 Sugar 
+### 🧠 RemembrallMCP
+[**RemembrallMCP**](https://github.com/cdnsteve/remembrallmcp) - Code intelligence and persistent memory for AI agents. Pre-indexed dependency graph so agents answer "what breaks if I change this?" in one call instead of twenty. 95% fewer tool calls, 98% fewer tokens vs standard agent exploration.
+
+📦 **Install:** `curl -fsSL https://github.com/cdnsteve/remembrallmcp/releases/latest/download/remembrall-aarch64-apple-darwin.tar.gz | tar xz`
+🐳 **Docker:** `docker compose up -d`
+🔗 **Check it out:** [github.com/cdnsteve/remembrallmcp](https://github.com/cdnsteve/remembrallmcp)
+
+### 🍰 Sugar
 [**Sugar**](https://github.com/roboticforce/sugar) - The autonomous layer for AI coding agents.
 
 📦 **Grab it:** `pip install sugarai`
 🔗 **Check it out:** [github.com/roboticforce/sugar](https://github.com/roboticforce/sugar)
-
-### YearFlow 📅
-[**YearFlow**](https://github.com/roboticforce/yearflow) - A beautiful year-at-a-glance planner component for React.
-
-📦 **Grab it:** `npm install yearflow`
-🔗 **Check it out:** [github.com/roboticforce/yearflow](https://github.com/roboticforce/yearflow)
-🌐 **Demo:** [yearflow.roboticforce.io](https://yearflow.roboticforce.io)
 
 ⭐ Stars help others find these projects (and make my day)
 
