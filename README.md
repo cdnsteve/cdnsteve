@@ -1,30 +1,24 @@
-### Hey! 👋
+### Hi, I'm Steve
 
-I'm Steve, a developer who loves building cool stuff with AI. After years of mixing code with technical leadership, I'm going all-in on AI tools that actually make developers' lives easier.
+I'm a developer focused on building AI tooling for software teams. After years splitting time between hands-on engineering and technical leadership, I now build tools that make AI coding agents more useful, reliable, and less of a black box.
 
-## 🚀 Projects
+## Projects
 
-### 🧠 RemembrallMCP
-[**RemembrallMCP**](https://github.com/cdnsteve/remembrallmcp) - Code intelligence and persistent memory for AI agents. Pre-indexed dependency graph so agents answer "what breaks if I change this?" in one call instead of twenty. 95% fewer tool calls, 98% fewer tokens vs standard agent exploration.
+### RemembrallMCP
+Code intelligence and persistent memory for AI coding agents. A pre-indexed dependency graph lets agents answer questions like "what breaks if I change this?" in a single call instead of exploring the codebase iteratively.
+[github.com/cdnsteve/remembrallmcp](https://github.com/cdnsteve/remembrallmcp)
 
-🔗 **Check it out:** [github.com/cdnsteve/remembrallmcp](https://github.com/cdnsteve/remembrallmcp)
+### Sugar
+The autonomous layer for AI coding agents - a background task queue that lets agents pick up, work through, and complete tasks on their own.
+`pip install sugarai` - [github.com/roboticforce/sugar](https://github.com/roboticforce/sugar)
 
-### 🍰 Sugar
-[**Sugar**](https://github.com/roboticforce/sugar) - The autonomous layer for AI coding agents.
+## Currently
 
-📦 **Grab it:** `pip install sugarai`
-🔗 **Check it out:** [github.com/roboticforce/sugar](https://github.com/roboticforce/sugar)
+- Building AI tools and autonomous agents at [RoboticForce](https://roboticforce.io)
+- Working on developer tooling that treats AI agents as a first-class part of the workflow
+- Always interested in ideas for making AI more practical for people writing production software
 
-⭐ Stars help others find these projects (and make my day)
+## Connect
 
-## 🎮 What I'm Up To
-
-- 🤖 Currently: Building AI tools and autonomous agents at [RoboticForce](https://roboticforce.io)
-- 🧠 Learning: All the AI things (it's a rabbit hole and I love it)
-- 🎯 Mission: Making AI less scary, more awesome
-- 🤝 Let's collab: Got a wild AI idea? Let's build it!
-- 💬 Ask me about: AI, autonomous agents, or why developers deserve better tools
-
----
-
-*Building cool stuff, breaking things, fixing them, repeat. 🚀*
+- Website: [roboticforce.io](https://roboticforce.io)
+- Reach out about AI tooling, autonomous agents, or developer experience
